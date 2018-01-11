@@ -4,11 +4,11 @@
 	Wallet Configuration
 ******************************************************************************/
 	$GLOBALS["wallet_ip"] = "127.0.0.1";
-	$GLOBALS["wallet_port"] = "9902";
-	$GLOBALS["wallet_user"] = "USERNAME";
-	$GLOBALS["wallet_pass"] = "PASSWORD";
+	$GLOBALS["wallet_port"] = "31836";
+	$GLOBALS["wallet_user"] = "rpc_user";
+	$GLOBALS["wallet_pass"] = "8cde5e64e7297b1cb4c495d1a";
 
-	$coin_name = "Peercoin";
+	$coin_name = "Bitmillion";
 
 /******************************************************************************
 
